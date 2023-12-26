@@ -1,6 +1,6 @@
 # GradleLwjglHelper
 
-The lwjgl helper gradle plugin that makes it easier to add lwjgl dependencies.
+The lwjgl helper gradle plugin makes it easier to add lwjgl dependencies.
 
 ## Installation
 
@@ -30,7 +30,7 @@ The lwjgl bom platform and core library are automatically included and no furthe
 
 The plugin automatically sets the lwjgl version.
 
-The table below shows which plugin version coresponds to which lwjgl version.
+The table below shows which plugin version corresponds to which lwjgl version.
 
 | Plugin | LWJGL |
 | --- | --- |
