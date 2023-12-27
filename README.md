@@ -34,4 +34,4 @@ The table below shows which plugin version corresponds to which lwjgl version.
 
 | Plugin | LWJGL |
 | --- | --- |
-| 0.1.0 | 3.3.3 |
+| 0.1.x | 3.3.3 |
