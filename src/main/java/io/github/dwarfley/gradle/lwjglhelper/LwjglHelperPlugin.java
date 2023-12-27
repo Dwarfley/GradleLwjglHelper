@@ -45,7 +45,7 @@ public class LwjglHelperPlugin implements Plugin<Project> {
 		addDependency(Configuration.IMPLEMENTATION, pName);
 		
 		if(pNative){
-			addDependency(Configuration.RUNTIME_ONLY, pName + "::" + mPlatform);
+			addDependency(Configuration.IMPLEMENTATION, pName + "::" + mPlatform);
 		}
 		
 	}
